@@ -1,0 +1,2 @@
+機器學習 - 各種監督式學習
+包含Linear_regression, Logistic_regression, KNN, Decision_tree, Random_forests等
